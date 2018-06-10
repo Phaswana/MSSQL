@@ -38,6 +38,7 @@ namespace ServiceManager
 
             app.UseStaticFiles();
 
+            //starts up index page
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
