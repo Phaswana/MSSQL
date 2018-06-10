@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Autosave files
 *~
 
@@ -39,3 +40,7 @@ Thumbs.db
 
 # dotCover
 *.dotCover
+=======
+
+Projects/ServiceManager/
+>>>>>>> 4d7a6a139a88b47f2c635d51904e0982ff36dca8
